@@ -39,7 +39,7 @@ This project transforms raw healthcare data into meaningful insights that suppor
 
 ## Dashboard Preview
 
-![Healthcare Dashboard] -(Dashboard.png)
+[Healthcare Dashboard] -(dashboard.png)
 
 ## Key Insights
 - Identified trends in patient admissions.
