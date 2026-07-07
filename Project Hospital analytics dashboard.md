@@ -6,7 +6,7 @@
 
 
 
-**\~MS Excel:** Dataset Size: 10,000 records
+# **\~MS Excel:** Dataset Size: 10,000 records
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-\~Imported healthcare dataset into **SQLite database.**
+# ~Imported healthcare dataset into **SQLite database.**
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-\~Verified total patients records using SQL: 9999 records.
+ \~Verified total patients records using SQL: 9999 records.
 
 
 
@@ -124,7 +124,7 @@ INSIGHTS:
 
 
 
-**\~Python**
+# **\~Python**
 
 
 
@@ -140,7 +140,7 @@ INSIGHTS:
 
 
 
-**\~Power BI**
+# **\~Power BI**
 
 
 
